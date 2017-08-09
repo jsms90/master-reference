@@ -45,6 +45,7 @@ Yvonne, Suha: was good, and important.
 Lubes: I felt this codealong had too much to write before actually running anything.
 Lubes: was good recommending them to write their own comments
 Shireen: have some files ready, some have to be coded-along
+
 **AP: lubes raise issues on the workshop maybe**
 
 ### Workshop
@@ -60,6 +61,7 @@ Zooey: maybe try to enforce 20/20/20 more, they need to rely on themselves more,
 Suha: we should agree as mentors beforehand how much help to give, maybe workshop specific (e.g. fine in codealong), as students will just ask the next mentor, damn them!
 Zooey: workshops, agree, let people struggle a bit more, less mentors in the room
 Yvonne: sometimes goes off to research a student's questions on her own, and they fix it when she returns...
+
 **AP: enforce 20/20/20, and call them out for not researching it**
 
 ### Research
