@@ -14,10 +14,13 @@ Yvonne: agree for FACN3, should install beforehand
 Suha: have office hours on Sunday morning to help those that didn't manage to install.
 Zooey: there's better troubleshooting documentation coming soon.
 
-> AP: get people to install it the week before, raise issue on MR week 4
-AP: have office hours on Sunday morning w6
-AP: Stefano should raise issues documenting how he solved his issue
-AP: document all problems
+**AP: get people to install it the week before, raise issue on MR week 4**
+
+**AP: have office hours on Sunday morning w6**
+
+**AP: Stefano should raise issues documenting how he solved his issue**
+
+**AP: document all problems**
 
 ### intro commands workshop
 some people didn't do it bcos installation
@@ -42,7 +45,7 @@ Yvonne, Suha: was good, and important.
 Lubes: I felt this codealong had too much to write before actually running anything.
 Lubes: was good recommending them to write their own comments
 Shireen: have some files ready, some have to be coded-along
-> AP: lubes raise issues on the workshop maybe
+**AP: lubes raise issues on the workshop maybe**
 
 ### Workshop
 Suha: was good because of the code-along, but they asked a lot of questions, but they 20/20/20'd well
@@ -57,7 +60,7 @@ Zooey: maybe try to enforce 20/20/20 more, they need to rely on themselves more,
 Suha: we should agree as mentors beforehand how much help to give, maybe workshop specific (e.g. fine in codealong), as students will just ask the next mentor, damn them!
 Zooey: workshops, agree, let people struggle a bit more, less mentors in the room
 Yvonne: sometimes goes off to research a student's questions on her own, and they fix it when she returns...
-> AP: enforce 20/20/20, and call them out for not researching it
+**AP: enforce 20/20/20, and call them out for not researching it**
 
 ### Research
 we dropped testing.
