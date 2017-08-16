@@ -1,20 +1,24 @@
-# Coursebook
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/foundersandcoders/master-reference/issues)
 
-Welcome to the coursebook for FAC!
+# Founders &amp; Coders
 
-For general information, including an overview of the course, applicable across the curriculum [start here](general/README.md).
+A master reference for the running of [Founders &amp; Coders](http://www.foundersandcoders.org), including the curriculum.
 
-For materials to complete before arrival, you can find our precourse [here](precourse/README.md).
+**All pull requests welcome**. Checkout our [contribution guidelines](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md).
 
-The first eight weeks will provide you with the necessary building blocks for creating a web app:
-* [Week 1](week-1/README.md) - Toolkit
-* [Week 2](week-2/README.md) - Testing
-* [Week 3](week-3/README.md) - APIs
-* [Week 4](week-4/README.md) - Node.js 1/2
-* [Week 5](week-5/README.md) - Node.js 2/2
-* [Week 6](week-6/README.md) - PostgreSQL
-* [Week 7](week-7/README.md) - Authentication
-* Week 8 - Express
+## Curriculum
 
-The second half of the curriculum is focused on longer projects and introduces you to client interaction:
-+ [Weeks 10-12](./weeks-10-12) - self-selected project
+A curriculum can be thought of as the ordered collection of weeks that students will follow at a given campus. Likewise a week can be thought of as an ordered collection of parts (i.e. a workshop, morning challenge, set of research topics or project).
+
+Below is a list of potential weeks, that might make up a curriculum
+
++ [Toolkit](./weeks/toolkit/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-toolkit)
++ [Testing](./weeks/testing/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-testing)
++ [APIs](./weeks/apis/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-API)
++ [Node 1](./weeks/node-1/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-node-1)
++ [Node 2](./weeks/node-2/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-node-2)
++ [Postgres](./weeks/postgres/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-postgres)
++ [Authentication](./weeks/authentication/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-authentication)
++ [Express](./weeks/express/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-express)
++ [Hapi & Templating](./weeks/hapi-templating/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-hapi-template)
++ [Hapi & Authentication](./weeks/hapi-auth/README.md) - [issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-hapi-auth)

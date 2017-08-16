@@ -1,5 +1,5 @@
-## Hapi authentication week
-
-[4 day week](./4-day-week/schedule.md)
-
-[5 day week](./5-day-week/schedule.md)
+## Hapi Authentication
+#### Workshops
+* [OAuth workshop](https://github.com/foundersandcoders/oauth)
+* [hapi Authentication workshop](https://github.com/foundersandcoders/hapi-authentication-workshop)
+* [JWT workshop](https://github.com/foundersandcoders/jwt_workshop)
