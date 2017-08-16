@@ -1,6 +1,6 @@
 # London Curriculum
 
-Welcome to the coursebook for FAC!
+Welcome to the curriculum for FAC London!
 
 For general information, including an overview of the course, applicable across the curriculum [start here](general/README.md).
 
