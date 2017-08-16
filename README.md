@@ -12,6 +12,9 @@ Running a campus:
 + [Project teams](./campus/teams)
 + [Code reviews](./campus/code-reviews.md)
 + [Retrospectives](./campus/retrospectives.md)
++ Roles:
+  + [Course Facilitation](./general/coursefacilitation)
+  + [Business Development point person](./general/business-development-point-person.md)
 
 For students:
 + [Tips for mentoring](./campus/tips-for-mentoring.md)
