@@ -23,6 +23,6 @@ A master reference for the running of [Founders &amp; Coders](http://www.founder
 ## Curriculum
 
 A curriculum can be thought of as the ordered collection of weeks that students will follow at a given campus:
-+ [London](./london-curriculum.md)
-+ [Nazareth](./nazareth-curriculum.md)
-+ [Gaza](./gaza-curriculum.md)
++ [London](./curriculum/london.md)
++ [Nazareth](./curriculum/nazareth.md)
++ [Gaza](./curriculum/gaza.md)
