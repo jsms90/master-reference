@@ -6,19 +6,19 @@ A master reference for the running of [Founders &amp; Coders](http://www.founder
 
 **All pull requests welcome**. Checkout our [contribution guidelines](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md).
 
-## General
-Running a campus:
+## Running a campus
++ [Code of conduct](./campus/code_of_conduct.md)
 + [House rules](./campus/house-rules.md)
-+ [Project teams](./campus/teams)
++ [Gitter channels](./campus/gitter-channels.md)
++ [Selecting project teams](./campus/teams)
 + [Code reviews](./campus/code-reviews.md)
 + [Retrospectives](./campus/retrospectives.md)
-+ Roles:
-  + [Course Facilitation](./general/coursefacilitation)
-  + [Business Development point person](./general/business-development-point-person.md)
-
-For students:
 + [Tips for mentoring](./campus/tips-for-mentoring.md)
 + [Developing your online presence](./campus/you.md)
+
+### Roles:
++ [Course Facilitation](./general/coursefacilitation)
++ [Business Development point person](./general/business-development-point-person.md)
 
 ## Curriculum
 
